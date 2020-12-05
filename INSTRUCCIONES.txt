@@ -1,0 +1,13 @@
+CLASE-1:
+
+- Creamos proyecto con: npx create-react-app book-store
+
+CLASE-2:
+
+-Limpiamos el proyecto, y en book store hicimos : npm start
+ahi ya te abre un navegador.
+
+- Creamos las carpetas Layout/Container, Components y Pages.
+
+- instalamos este plugging ES7 React/Redux/GraphQL/React-Native snippets
+- y ahora con escribir "rafc" adentro de container.js nos crea un codigo, que es un componente? "rafc: react fragment component"
