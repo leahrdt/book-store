@@ -11,3 +11,12 @@ ahi ya te abre un navegador.
 
 - instalamos este plugging ES7 React/Redux/GraphQL/React-Native snippets
 - y ahora con escribir "rafc" adentro de container.js nos crea un codigo, que es un componente? "rafc: react fragment component"
+
+-COMPONENTES: 2 tipos, tipo Function y tipo Class
+tipo Function: los mas simples, se crean tipeando "rafc" si tenemos el plugging instalado
+tipo Class: le podemos poner states y ciclos de vida.
+
+Props:Propiedades de los componentes, ininmutables.
+States: Estado del componente, puede cambiar.
+
+Render:  el componente se muestra en pantalla.

@@ -1,10 +1,10 @@
   
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+import React from 'react'; //se importa la libreria react.
+import ReactDOM from 'react-dom'; // se import la libreria react dom
+import './index.css'; //se importan los estilos
 import {Container} from './layout/Container';
 
-ReactDOM.render(
-  <Container />,
-  document.getElementById('root')
+ReactDOM.render( //el render
+  <Container />, //nuestro contenedor
+  document.getElementById('root') //get elemeent a un "root" q aun nose donde esta.
 );
