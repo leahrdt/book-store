@@ -20,7 +20,7 @@ export const BookCard = (props) => {
 //   return (
 //     <div>
 //       BookCard {book.title}  
-//       <button onClick={() => onAddCartHandler(book)}>Agregar al carrito</button> ESTA FUNCION ES PARA QUE SEPA A QUE LIBRO LE HACEMOS CLICK
+//       <button onClick={() => onAddCartHandler(book)}>Agregar al carrito</button> onAddCartHandler(book) ENTRE PARENTESIS ESTA BOOK PARA QUE SEPA A QUE LIBRO LE HACEMOS CLICK
 //     </div>
 //   )
 // }
